@@ -1,1 +1,1 @@
-var playlist = {'Joey badass':'Daily Routine'}
+var playlist = {'Joey Badass':'Daily Routine'}
